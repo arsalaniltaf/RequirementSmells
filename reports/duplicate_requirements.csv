@@ -1,0 +1,275 @@
+requirement,dataset,source_file,Subjective,Ambiguous,Nonverifiable,Negative,Vague
+"
+                The solution should provide detailed context-sensitive help material for all the possible actions and scenarios on all user interfaces in the application.
+            ",DS1,0000 - cctns.xml,-,-,possible,-,-
+"
+                The solution should provide detailed context-sensitive help material for all the possible actions and scenarios on all user interfaces in the application.
+            ",DS1,0000 - cctns.xml,-,-,possible,-,-
+"
+           Linking back to the home page or landmark pages: Each page should contain a link leading to the home page of the application or to a landmark page that is easy to recognize for the user.
+           ",DS1,0000 - cctns.xml,easy,back,-,-,-
+"
+           Linking back to the home page or landmark pages: Each page should contain a link leading to the home page of the application or to a landmark page that is easy to recognize for the user.
+           ",DS1,0000 - cctns.xml,-,back,-,-,-
+"4) targeting, and 5) C4I system interface.",DS4,1999 - tcs,-,-,-,-,-
+"4) targeting, and 5) C4I system interface.",DS4,1999 - tcs,-,-,-,-,-
+A train shall be supervised to its static and dynamic train speed profiles.,DS1,2007-ertms.xml,-,-,-,-,its
+A train shall be supervised to its static and dynamic train speed profiles.,DS3,xml_ertms.json,-,-,-,-,-
+Assume Yoggie will freeze the baseline of the USB system after delivery.,DS1,0000 - gamma j.xml,-,-,-,-,-
+Assume Yoggie will freeze the baseline of the USB system after delivery.,DS3,xml_gamma.json,-,-,-,-,-
+"Based on all relevant data, the ETCS shall calculate an emergency braking curve and a service braking curve
+",DS1,2007-ertms.xml,relevant*emergency,-,-,-,-
+"Based on all relevant data, the ETCS shall calculate an emergency braking curve and a service braking curve
+",DS1,2007-ertms.xml,relevant*emergency,-,-,-,-
+Both anticipated and unanticipated user requests (traffic) are considered.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Both anticipated and unanticipated user requests (traffic) are considered.,DS3,xml_peering.json,-,-,-,-,-
+"Compatibility is only tested and verified for Microsoft Internet Explorer version 6 and 7, Netscape Communicator Version 4 and 5. Other versions may not be 100% compatible. Also other browsers such as Mozilla or Firefox may not be 100% compatible.",DS1,0000 - gamma j.xml,-,-,-,not,may
+"Compatibility is only tested and verified for Microsoft Internet Explorer version 6 and 7, Netscape Communicator Version 4 and 5. Other versions may not be 100% compatible. Also other browsers such as Mozilla or Firefox may not be 100% compatible.",DS3,xml_gamma.json,-,-,-,not,-
+Effective content delivery is ensured through SLA satisfaction.,DS1,NEW - 2008 - peering.xml,Effective ,-,-,-,-
+Effective content delivery is ensured through SLA satisfaction.,DS3,xml_peering.json,effective content,-,satisfaction,-,-
+"FTSS shall (3.3.5.34) provide an API call which allows the application to notify FTSS that an FCP, ICP, or NE is intentionally being powered down.",DS4,2000 - nasa x38,-,-,-,-,-
+"FTSS shall (3.3.5.34) provide an API call which allows the application to notify FTSS that an FCP, ICP, or NE is intentionally being powered down.",DS4,2000 - nasa x38,-,-,-,-,-
+"Following successful completion of Train Data Entry, the driver shall be able to perform shunting movements or train movements.",DS1,2007-ertms.xml,successful,-,-,-,-
+"Following successful completion of Train Data Entry, the driver shall be able to perform shunting movements or train movements.",DS3,xml_ertms.json,-,-,-,-,-
+"For returning customers, the system shall validate 'existing' credit card in system after each log in.",DS1,0000 - gamma j.xml,-,-,-,-,-
+"For returning customers, the system shall validate 'existing' credit card in system after each log in.",DS3,xml_gamma.json,-,-,-,-,-
+Functional policies are identified and deployed.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Functional policies are identified and deployed.,DS3,xml_peering.json,-,-,-,-,-
+In the Normal Operations Mode the TCS shall support the following functions: [SSS037],DS2,1999 - tcs.xml,-,normal,-,-,-
+In the Normal Operations Mode the TCS shall support the following functions: [SSS037],DS4,1999 - tcs,-,-,support*,-,-
+Interaction protocols between PAs are identified.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Interaction protocols between PAs are identified.,DS3,xml_peering.json,-,-,-,-,-
+Malicious requests are detected and rejected.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Malicious requests are detected and rejected.,DS3,xml_peering.json,-,-,-,-,-
+Malicious requests are identified and acted upon.,DS1,NEW - 2008 - peering.xml,-,upon,-,-,-
+Malicious requests are identified and acted upon.,DS3,xml_peering.json,malicious requests,-,malicious requests,-,-
+Mediator works in conjunction with the PA to establish negotiation.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Mediator works in conjunction with the PA to establish negotiation.,DS3,xml_peering.json,-,-,-,-,-
+"Mediator-SR, mediator-PR, mediator-PA interaction protocols are defined.",DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+"Mediator-SR, mediator-PR, mediator-PA interaction protocols are defined.",DS3,xml_peering.json,-,-,-,-,-
+Negotiation is established between selected CDN peers.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Negotiation is established between selected CDN peers.,DS3,xml_peering.json,-,-,-,-,-
+Only registered customers can purchase streaming movies.,DS3,text_requirements.json,-,-,-,-,-
+Only registered customers can purchase streaming movies.,DS3,text_requirements.json,-,-,-,-,-
+Policies are in place to perform renegotiation for problem resolution.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Policies are in place to perform renegotiation for problem resolution.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Policies are in place to perform renegotiation for problem resolution.,DS3,xml_peering.json,-,-,-,-,-
+Policies identifying the consequences of SLA violation are defined.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+Policies identifying the consequences of SLA violation are defined.,DS3,xml_peering.json,-,-,-,-,-
+Primary CDN has already acquired sufficient external resources.,DS1,NEW - 2008 - peering.xml,-,-,sufficient ,-,-
+Primary CDN has already acquired sufficient external resources.,DS3,xml_peering.json,-,-,sufficient,-,-
+Remotely hosted applications shall communicate in a client server relationship via the defined data server interface. [SSS329],DS2,1999 - tcs.xml,-,-,-,-,-
+Remotely hosted applications shall communicate in a client server relationship via the defined data server interface. [SSS329],DS4,1999 - tcs,-,-,-,-,-
+"Resource provisioning, delegation and reservation policies are in place",DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+"Resource provisioning, delegation and reservation policies are in place",DS3,xml_peering.json,-,-,-,-,-
+"Shutdown of the TCS shall include storage as well as deletion, as specified by the operator, of mission data files [SSS044], shutdown of appropriate functions [SSS045], shutdown of HCIs [SSS046], and proper termination of all active interfaces [SSS047].",DS4,1999 - tcs,-,-,-,-,all*
+"Shutdown of the TCS shall include storage as well as deletion, as specified by the operator, of mission data files [SSS044], shutdown of appropriate functions [SSS045], shutdown of HCIs [SSS046], and proper termination of all active interfaces [SSS047].",DS4,1999 - tcs,-,-,-,-,all*
+"TCS hardware flexibility and expansion shall be provided through use of GFE, NDI and COTS hardware designed to be upgraded and expanded. [SSS440]",DS2,1999 - tcs.xml,-,-,-,-,-
+"TCS hardware flexibility and expansion shall be provided through use of GFE, NDI and COTS hardware designed to be upgraded and expanded. [SSS440]",DS4,1999 - tcs,-,-,-,-,-
+TCS shall be capable of executing AV maintenance software and displaying appropriate status results. [SSS245],DS2,1999 - tcs.xml,-,capappropriate,appropriate,-,-
+TCS shall be capable of executing AV maintenance software and displaying appropriate status results. [SSS245],DS4,1999 - tcs,-,-,-,-,-
+TCS shall be capable of executing data terminal maintenance software and displaying appropriate status results. [SSS247],DS2,1999 - tcs.xml,-,capappropriate,appropriate,-,-
+TCS shall be capable of executing data terminal maintenance software and displaying appropriate status results. [SSS247],DS4,1999 - tcs,-,-,-,-,-
+TCS shall be capable of executing payload maintenance software and displaying appropriate status results. [SSS246],DS2,1999 - tcs.xml,-,capappropriate,appropriate,-,-
+TCS shall be capable of executing payload maintenance software and displaying appropriate status results. [SSS246],DS4,1999 - tcs,-,-,-,-,-
+TCS shall be capable of executing workstation and peripheral equipment maintenance software and displaying appropriate status results. [SSS248],DS2,1999 - tcs.xml,-,capappropriate,appropriate,-,-
+TCS shall be capable of executing workstation and peripheral equipment maintenance software and displaying appropriate status results. [SSS248],DS4,1999 - tcs,-,-,-,-,-
+TCS shall provide the capability to monitor payload adherence to the uplinked mission plan. [SSS155],DS2,1999 - tcs.xml,-,-,-,-,-
+TCS shall provide the capability to monitor payload adherence to the uplinked mission plan. [SSS155],DS4,1999 - tcs,-,-,-,-,-
+"The TCS Mission plan shall include all necessary information required to be interoperable with the service specific mission planning systems including the Tactical Aircraft Mission Planning System (TAMPS), Aviation Mission Planning System (AMPS), and Air Force Mission Support System (AFMSS). [SSS051",DS4,1999 - tcs,-,-,-,-,all*
+"The TCS Mission plan shall include all necessary information required to be interoperable with the service specific mission planning systems including the Tactical Aircraft Mission Planning System (TAMPS), Aviation Mission Planning System (AMPS), and Air Force Mission Support System (AFMSS). [SSS051",DS4,1999 - tcs,-,-,-,-,all*
+"The TCS data latency shall not be greater than that present in the Predator ground control station or Outrider ground control station, whichever is smaller. [SSS409]",DS2,1999 - tcs.xml,-,present,-,not,whichever
+"The TCS data latency shall not be greater than that present in the Predator ground control station or Outrider ground control station, whichever is smaller. [SSS409]",DS4,1999 - tcs,-,-,-,not*,-
+"The TCS design shall provide protection against injury to TCS operators and maintenance personnel. [SSS357] The system design shall use MIL-STD-2036, Section 5.1.3.11 as a guide, with regard to personnel hazards, and MIL-STD-1472D, Section 5.13, as a guide for safety from a human engineering viewpoint. [SSS358]",DS2,1999 - tcs.xml,-,human,-,-,-
+"The TCS design shall provide protection against injury to TCS operators and maintenance personnel. [SSS357] The system design shall use MIL-STD-2036, Section 5.1.3.11 as a guide, with regard to personnel hazards, and MIL-STD-1472D, Section 5.13, as a guide for safety from a human engineering viewpoint. [SSS358]",DS4,1999 - tcs,-,-,-,-,-
+The TCS reliability will be considered in every phase of the design and development process and shall achieve a system reliability (Mean Time Between Failures MTBF) equal to or greater than that which is specified in the Predator and Outrider ORDs. [SSS410],DS2,1999 - tcs.xml,-,mean*equal,-,-,-
+The TCS reliability will be considered in every phase of the design and development process and shall achieve a system reliability (Mean Time Between Failures MTBF) equal to or greater than that which is specified in the Predator and Outrider ORDs. [SSS410],DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall allow an Authorized Operator to execute a software debug capability and view the resulting debug diagnostic information. [SSS282] As a minimum, the TCS will restrict Operator access to this capability via password protection. [SSS283]",DS2,1999 - tcs.xml,-,-,-,-,-
+"The TCS shall allow an Authorized Operator to execute a software debug capability and view the resulting debug diagnostic information. [SSS282] As a minimum, the TCS will restrict Operator access to this capability via password protection. [SSS283]",DS4,1999 - tcs,-,-,minimum*,-,-
+"The TCS shall allow the operator to initiate the emergency recovery feature of the AV, if the AV has an emergency recovery feature. [SSS139]",DS2,1999 - tcs.xml,-,-,-,-,-
+"The TCS shall allow the operator to initiate the emergency recovery feature of the AV, if the AV has an emergency recovery feature. [SSS139]",DS4,1999 - tcs,-,-,-,-,-
+The TCS shall be able to access data storage devices. [SSS339],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall be able to access data storage devices. [SSS339],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall be air transportable by helicopter (CH-47/CH-53D) and C-130 drive-on/drive-off capable. [SSS522],DS2,1999 - tcs.xml,-,capable,-,-,-
+The TCS shall be air transportable by helicopter (CH-47/CH-53D) and C-130 drive-on/drive-off capable. [SSS522],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall be capable of operating continuously in functional Operation Mode for a minimum of 72 hours. [SSS442],DS2,1999 - tcs.xml,-,capable,-,-,-
+The TCS shall be capable of operating continuously in functional Operation Mode for a minimum of 72 hours. [SSS442],DS4,1999 - tcs,-,-,minimum*,-,-
+The TCS shall be ground transportable. [SSS521],DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall be ground transportable. [SSS521],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall be rail transportable. [SSS524],DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall be rail transportable. [SSS524],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall be sea transportable. [SSS523],DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall be sea transportable. [SSS523],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall display the current search footprint and the search history of the payload on the map. [SSS157],DS2,1999 - tcs.xml,-,current,-,-,-
+The TCS shall display the current search footprint and the search history of the payload on the map. [SSS157],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have an interface to an uninterruptible power supply. [SSS344],DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall have an interface to an uninterruptible power supply. [SSS344],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have sufficient throughput to support the processing requirements of the selected data link. [SSS382],DS2,1999 - tcs.xml,sufficient,sufficient,-,-,-
+The TCS shall have sufficient throughput to support the processing requirements of the selected data link. [SSS382],DS4,1999 - tcs,-,-,sufficient*support*,-,-
+The TCS shall have the functionality to allow the operator to generate a UAV mission plan. [SSS050],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have the functionality to allow the operator to generate a UAV mission plan. [SSS050],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have the functionality to receive and process UAV mission plans from service specific mission planning systems. [SSS053],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have the functionality to receive and process UAV mission plans from service specific mission planning systems. [SSS053],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have the functionality to transfer digital data as well as digital imagery to and from data storage devices. [SSS340],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall have the functionality to transfer digital data as well as digital imagery to and from data storage devices. [SSS340],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide a CD drive for the retrieval of TCS data. [SSS341],DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall provide a CD drive for the retrieval of TCS data. [SSS341],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide a CD drive for the retrieval of TCS data. [SSS341],DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide a RAID for storage and retrieval of TCS data, if required. [SSS343]",DS2,1999 - tcs.xml,-,-,-,-,-
+"The TCS shall provide a RAID for storage and retrieval of TCS data, if required. [SSS343]",DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide a tape drive for storage and retrieval of TCS data. [SSS342],DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall provide a tape drive for storage and retrieval of TCS data. [SSS342],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide a tape drive for storage and retrieval of TCS data. [SSS342],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide external interfaces to launch and recovery systems. [SSS289],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide external interfaces to launch and recovery systems. [SSS289],DS4,1999 - tcs,-,-,-,-,-
+The TCS shall provide the functionality to control the ADT antenna. [SSS133] This control will including its pointing direction and mode of transmission (e.g. omni and directional).,DS2,1999 - tcs.xml,-,-,-,-,-
+The TCS shall provide the functionality to control the ADT antenna. [SSS133] This control will including its pointing direction and mode of transmission (e.g. omni and directional).,DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the functionality to control the power, transmitter signal strength, and frequencies used by ADT for data link communication. [SSS134]",DS2,1999 - tcs.xml,-,signal,-,-,-
+"The TCS shall provide the functionality to control the power, transmitter signal strength, and frequencies used by ADT for data link communication. [SSS134]",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the functionality to control, monitor, and display the operation of the Air Data Terminal (ADT). [SSS132] This control will include control of the ADT antenna and of the ADT transmitter and receiver.",DS2,1999 - tcs.xml,-,-,-,-,-
+"The TCS shall provide the functionality to control, monitor, and display the operation of the Air Data Terminal (ADT). [SSS132] This control will include control of the ADT antenna and of the ADT transmitter and receiver.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AFATDS. [SSS295] The interface requirements and specifications will be defined in the TCS to AFTADS IDD, TCS 200.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AFATDS. [SSS295] The interface requirements and specifications will be defined in the TCS to AFTADS IDD, TCS 200.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AFATDS. [SSS295] The interface requirements and specifications will be defined in the TCS to AFTADS IDD, TCS 200.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AFMSS.[SSS564] The interface requirements and specifications will be defined in the  TCS  to AFMSS IDD, TCS 220.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AFMSS.[SSS564] The interface requirements and specifications will be defined in the  TCS  to AFMSS IDD, TCS 220.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AMPS.[SSS563] The interface requirements and specifications will be defined in the TCS to AMPS IDD, TCS 235.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AMPS.[SSS563] The interface requirements and specifications will be defined in the TCS to AMPS IDD, TCS 235.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with AMPS.[SSS563] The interface requirements and specifications will be defined in the TCS to AMPS IDD, TCS 235.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ASAS. [SSS291] The interface requirements and specifications will be defined in the TCS to ASAS IDD, TCS 201.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ASAS. [SSS291] The interface requirements and specifications will be defined in the TCS to ASAS IDD, TCS 201.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ASAS. [SSS291] The interface requirements and specifications will be defined in the TCS to ASAS IDD, TCS 201.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ATWCS. [SSS305] The interface requirements and specifications will be defined in TCS ATWCS IDD, TCS203",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ATWCS. [SSS305] The interface requirements and specifications will be defined in TCS ATWCS IDD, TCS203",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with CARS. [SSS297] The interface requirements and specifications will be defined in the TCS to CARS IDD, TCS 217.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with CARS. [SSS297] The interface requirements and specifications will be defined in the TCS to CARS IDD, TCS 217.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with CCTV. [SSS298] The interface requirements and specifications will be defined in the TCS to CCTV IDD, TCS 205.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with CCTV. [SSS298] The interface requirements and specifications will be defined in the TCS to CCTV IDD, TCS 205.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with CCTV. [SSS298] The interface requirements and specifications will be defined in the TCS to CCTV IDD, TCS 205.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ETRAC. [SSS309] The interface requirements and specifications will be defined in the TCS ETRAC IDD, TCS 218.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with ETRAC. [SSS309] The interface requirements and specifications will be defined in the TCS ETRAC IDD, TCS 218.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with GCS/ACS IPF. [SSS300] The interface requirements and specifications will be defined in the TCS to GCS/ACS IPF IDD, TCS 215.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with GCS/ACS IPF. [SSS300] The interface requirements and specifications will be defined in the TCS to GCS/ACS IPF IDD, TCS 215.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with GCS/ACS IPF. [SSS300] The interface requirements and specifications will be defined in the TCS to GCS/ACS IPF IDD, TCS 215.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with IAS. [SSS303] The interface requirements and specifications will be defined in the TCS to IAS IDD, TCS 206.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with IAS. [SSS303] The interface requirements and specifications will be defined in the TCS to IAS IDD, TCS 206.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JDISS. [SSS301] The interface requirements and specifications will be defined in the TCS to JDISS IDD, TCS 212.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JDISS. [SSS301] The interface requirements and specifications will be defined in the TCS to JDISS IDD, TCS 212.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JDISS. [SSS301] The interface requirements and specifications will be defined in the TCS to JDISS IDD, TCS 212.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JMCIS. [SSS293] The interface requirements and specifications will be defined in the TCS to JMCIS IDD, TCS 214.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JMCIS. [SSS293] The interface requirements and specifications will be defined in the TCS to JMCIS IDD, TCS 214.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JMCIS. [SSS293] The interface requirements and specifications will be defined in the TCS to JMCIS IDD, TCS 214.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JSIPS-N. [SSS294] The interface requirements and specifications will be defined in the TCS to JSIPS-N IDD, TCS 210.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JSIPS-N. [SSS294] The interface requirements and specifications will be defined in the TCS to JSIPS-N IDD, TCS 210.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JSIPS-N. [SSS294] The interface requirements and specifications will be defined in the TCS to JSIPS-N IDD, TCS 210.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JSTARS GSM. [SSS292] The interface requirements and specifications will be defined in the TCS to JSTARS IDD, TCS 209.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JSTARS GSM. [SSS292] The interface requirements and specifications will be defined in the TCS to JSTARS IDD, TCS 209.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with JSTARS GSM. [SSS292] The interface requirements and specifications will be defined in the TCS to JSTARS IDD, TCS 209.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with MIES. [SSS308] The interface requirements and specifications will be defined in the TCS to MIES IDD, TCS 216.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with MIES. [SSS308] The interface requirements and specifications will be defined in the TCS to MIES IDD, TCS 216.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with TAMPS.[SSS565] The interface requirements and specifications will be defined in the TCS  to TAMPS IDD, TCS 219",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with TAMPS.[SSS565] The interface requirements and specifications will be defined in the TCS  to TAMPS IDD, TCS 219",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with TBMCS. [SSS307] The interface requirements and specifications will be defined in TCS to TBMCS IDD, TCS 221.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with TBMCS. [SSS307] The interface requirements and specifications will be defined in TCS to TBMCS IDD, TCS 221.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with TEG. [SSS311] The interface requirements and specifications will be defined in TCS to TEG IDD, TCS 207.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with TEG. [SSS311] The interface requirements and specifications will be defined in TCS to TEG IDD, TCS 207.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with Trojan Spirit II. [SSS306] The interface requirements and specifications will be defined in the TCS to TROJAN SPIRIT II IDD, TCS 213.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS shall provide the necessary hardware and software functionality to allow the TCS to integrate with Trojan Spirit II. [SSS306] The interface requirements and specifications will be defined in the TCS to TROJAN SPIRIT II IDD, TCS 213.",DS4,1999 - tcs,-,-,-,-,-
+"The TCS will have the functionality necessary to manage all aspects of payload product handling to include receiving, processing, displaying, and performing limited exploitation. The payload product includes the payload sensor output and the appropriate AV and payload telemetry data.",DS2,1999 - tcs.xml,-,necessary*appropriate,appropriate,-,-
+"The TCS will have the functionality necessary to manage all aspects of payload product handling to include receiving, processing, displaying, and performing limited exploitation. The payload product includes the payload sensor output and the appropriate AV and payload telemetry data.",DS4,1999 - tcs,-,-,-,-,all*
+"The TCS will provide the hardware and software necessary to allow the operator to conduct the following major functions 1) mission planning, 2) mission control and monitoring, 3) payload product management,",DS4,1999 - tcs,-,-,-,-,-
+"The TCS will provide the hardware and software necessary to allow the operator to conduct the following major functions 1) mission planning, 2) mission control and monitoring, 3) payload product management,",DS4,1999 - tcs,-,-,-,-,-
+"The TCS will provide the necessary hardware and software functionality to allow the TCS to integrate with Service Mission Planners. The Service Mission Planners will consist of AMPS, AFMSS, and TAMPS.",DS2,1999 - tcs.xml,-,necessary,-,-,-
+"The TCS will provide the necessary hardware and software functionality to allow the TCS to integrate with Service Mission Planners. The Service Mission Planners will consist of AMPS, AFMSS, and TAMPS.",DS4,1999 - tcs,-,-,-,-,-
+The change of driver identification during a journey or a Train Running Number shall be possible,DS1,2007-ertms.xml,-,-,-,-,-
+The change of driver identification during a journey or a Train Running Number shall be possible,DS3,xml_ertms.json,-,-,-,-,-
+The driver shall be able to consult train data when the train is stationary or moving.,DS1,2007-ertms.xml,-,-,-,-,-
+The driver shall be able to consult train data when the train is stationary or moving.,DS3,xml_ertms.json,-,-,-,-,-
+"The driver shall have the possibility to select the language, this does not concern non pre-defined texts sent from the trackside.",DS1,2007-ertms.xml,concern*static*dynamic,-,-,doesnot,this
+"The driver shall have the possibility to select the language, this does not concern non pre-defined texts sent from the trackside.",DS3,xml_ertms.json,-,-,-,-,-
+The driver shall know the distance to the next point defining the indicated braking curve and the permitted speed allowed. This shall be shown to the driver in a way that is understandable and logical.,DS1,2007-ertms.xml,-,next,-,-,-
+The driver shall know the distance to the next point defining the indicated braking curve and the permitted speed allowed. This shall be shown to the driver in a way that is understandable and logical.,DS3,xml_ertms.json,-,-,-,-,-
+The entry of driver identification and the selection of the language shall be possible.,DS1,2007-ertms.xml,-,-,-,-,-
+The entry of driver identification and the selection of the language shall be possible.,DS3,xml_ertms.json,-,-,-,-,-
+The format for service information description is defined,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+The format for service information description is defined,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+The format for service information description is defined,DS3,xml_peering.json,-,-,-,-,-
+The format for service information description is defined,DS3,xml_peering.json,-,-,-,-,-
+The format of service requirements is defined.,DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+The format of service requirements is defined.,DS3,xml_peering.json,-,-,-,-,-
+The indication provided shall enable the driver to drive at the permitted speed without receiving a warning and without intervention of ETCS.,DS1,2007-ertms.xml,-,-,indication,-,-
+The indication provided shall enable the driver to drive at the permitted speed without receiving a warning and without intervention of ETCS.,DS3,xml_ertms.json,-,-,-,-,-
+"The interaction protocol between Web Server-SR, SR-mediator is defined.",DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+"The interaction protocol between Web Server-SR, SR-mediator is defined.",DS1,NEW - 2008 - peering.xml,-,-,-,-,-
+"The interaction protocol between Web Server-SR, SR-mediator is defined.",DS3,xml_peering.json,-,-,-,-,-
+"The interface requirements and specifications will be defined in the TCS to JSIPS-AF IDD, TCS 211.",DS2,1999 - tcs.xml,-,-,-,-,-
+"The interface requirements and specifications will be defined in the TCS to JSIPS-AF IDD, TCS 211.",DS4,1999 - tcs,-,-,-,-,-
+"The interface requirements and specifications will be defined in the TCS to JSIPS-AF IDD, TCS 211.",DS4,1999 - tcs,-,-,-,-,-
+The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.,DS3,text_requirements.json,-,-,-,-,-
+The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.,DS3,text_requirements.json,-,-,-,-,-
+The system hardware shall be fixed and patched via an internet connection.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system hardware shall be fixed and patched via an internet connection.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall automatically compress image files that are too large in size.,DS1,0000 - gamma j.xml,-,-,too large,-,-
+The system shall automatically compress image files that are too large in size.,DS3,xml_gamma.json,-,too large,-,-,-
+The system shall be able to acquire shipping charges in less than 2 seconds.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall be able to acquire shipping charges in less than 2 seconds.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall be able to add product to shopping cart in less than 2ms.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall be able to add product to shopping cart in less than 2ms.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall be able to email customer and vendor in less than 1 second.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall be able to email customer and vendor in less than 1 second.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall be able to handle 1000 customers logged in concurrently at the same time.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall be able to handle 1000 customers logged in concurrently at the same time.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall be able to retrieve 200 products per second.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall be able to retrieve 200 products per second.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall be able to validate credit card in less than 2 seconds.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall be able to validate credit card in less than 2 seconds.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall be easily updatable for fixes and patches.,DS1,0000 - gamma j.xml,easily,-,-,-,-
+The system shall be easily updatable for fixes and patches.,DS3,xml_gamma.json,easily,-,-,-,-
+The system shall be easy to learn,DS1,0000 - gamma j.xml,validate ,-,-,-,-
+The system shall be easy to learn,DS3,xml_gamma.json,easy,-,-,-,-
+"The system shall create logs of all changes, updates, or fixes that are done to the site.",DS1,0000 - gamma j.xml,-,-,-,-,-
+"The system shall create logs of all changes, updates, or fixes that are done to the site.",DS3,xml_gamma.json,-,-,-,-,-
+The system shall detect consecutive failed login attempts.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall detect consecutive failed login attempts.,DS3,xml_gamma.json,-,-,consecutive ,-,-
+The system shall employ easy to locate buttons,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall employ easy to locate buttons,DS3,xml_gamma.json,easy,-,-,-,-
+The system shall encrypt all customer data in database.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall encrypt all customer data in database.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall encrypt all sensitive information via https.,DS1,0000 - gamma j.xml,sensitive,-,-,-,-
+The system shall encrypt all sensitive information via https.,DS3,xml_gamma.json,sensitive information,-,sensitive information,-,-
+The system shall prompt customer with friend easy to read error messages.,DS1,0000 - gamma j.xml,easy,-,-,-,-
+The system shall prompt customer with friend easy to read error messages.,DS3,xml_gamma.json,easy,-,-,-,-
+The system shall use SQL based database to store inventory information.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system shall use SQL based database to store inventory information.,DS3,xml_gamma.json,-,-,-,-,-
+The system shall utilize consistent symbols and colors for clear notifications.,DS1,0000 - gamma j.xml,-,-,consistent*clear,-,-
+The system shall utilize consistent symbols and colors for clear notifications.,DS3,xml_gamma.json,consistent*clear,-,consistent*clear,-,-
+The system shall utilize interchangeable plugins.,DS1,0000 - gamma j.xml,-,-,interchangeable,-,-
+The system shall utilize interchangeable plugins.,DS3,xml_gamma.json,-,-,-,-,-
+The system should be able to create test environment of weborder system.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system should be able to create test environment of weborder system.,DS3,xml_gamma.json,-,-,-,-,-
+The system should be able to run test shipping orders.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system should be able to run test shipping orders.,DS3,xml_gamma.json,-,-,-,-,-
+The system should be able to run under debug mode.,DS1,0000 - gamma j.xml,-,-,-,-,-
+The system should be able to run under debug mode.,DS3,xml_gamma.json,-,-,-,-,-
+The train trip function ,DS1,2007-ertms.xml,-,-,-,-,-
+The train trip function ,DS1,2007-ertms.xml,-,-,-,-,-
+There are existing policies for long-term peering arrangement.,DS1,NEW - 2008 - peering.xml,-,-,long-term,-,-
+There are existing policies for long-term peering arrangement.,DS3,xml_peering.json,-,long-term,-,-,-
+There shall be no modes of operation in the shutdown state. [SSS048],DS4,1999 - tcs,-,-,-,-,-
+There shall be no modes of operation in the shutdown state. [SSS048],DS4,1999 - tcs,-,-,-,-,-
+"This section not applicable, therefore tailored out.",DS2,1999 - tcs.xml,-,-,-,not,-
+"This section not applicable, therefore tailored out.",DS4,1999 - tcs,-,-,-,not*,-
+"This section not applicable, therefore tailored out.",DS4,1999 - tcs,-,-,-,not*,-
+"This section not applicable, therefore tailored out.",DS4,1999 - tcs,-,-,-,not*,-
+"Upon the selection of a shutdown command the TCS shall enter the Shutdown State, which will cause the TCS to be placed in a condition where power can be removed without impacting operations as well as causing damage to the system, and from which restart of the system can be accomplished normally. [SSS043]",DS4,1999 - tcs,-,-,-,without*,-
+"Upon the selection of a shutdown command the TCS shall enter the Shutdown State, which will cause the TCS to be placed in a condition where power can be removed without impacting operations as well as causing damage to the system, and from which restart of the system can be accomplished normally. [SSS043]",DS4,1999 - tcs,-,-,-,without*,-
+Visual and acoustic warnings to the driver about possible intervention from ETCS shall be given to enable the driver to react and avoid intervention.,DS1,2007-ertms.xml,-,-,possible,-,-
+Visual and acoustic warnings to the driver about possible intervention from ETCS shall be given to enable the driver to react and avoid intervention.,DS3,xml_ertms.json,-,-,-,-,-
+"Web Store shall operate on an Intel based system with Slackware Linux 2.6 and Apache Web Server. The operating system is designed by the Yoggie Corporation. Although maintenance documentation will be supplied and the operating system will be tested, the developers of this Web Store are not responsible for the functionality of the operating system.",DS1,0000 - gamma j.xml,-,-,-,-,-
+"Web Store shall operate on an Intel based system with Slackware Linux 2.6 and Apache Web Server. The operating system is designed by the Yoggie Corporation. Although maintenance documentation will be supplied and the operating system will be tested, the developers of this Web Store are not responsible for the functionality of the operating system.",DS3,xml_gamma.json,-,-,-,-,-
+Web servers have already replicated necessary content.,DS1,NEW - 2008 - peering.xml,-,already ,-,-,-
+Web servers have already replicated necessary content.,DS3,xml_peering.json,-,-,necessary content,-,-
+"When the ETCS trainborne equipment is isolated, the system shall not show any ETCS information other than the fact that the system is isolated.",DS1,2007-ertms.xml,-,-,-,-,-
+"When the ETCS trainborne equipment is isolated, the system shall not show any ETCS information other than the fact that the system is isolated.",DS3,xml_ertms.json,-,-,-,-,-
+Yoggie shall coordinate on future enhancement and features with our organization.,DS1,0000 - gamma j.xml,-,-,-,-,-
+Yoggie shall coordinate on future enhancement and features with our organization.,DS3,xml_gamma.json,-,-,-,-,-

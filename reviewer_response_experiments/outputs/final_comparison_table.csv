@@ -1,0 +1,7 @@
+,BR (original),CC single random order (original paper),CC ensemble of 10 orders (mean),CC co-occurrence-informed order
+Subset Accuracy,0.5203,0.5154,0.5208,0.5164
+Hamming Loss,0.1295,0.1425,0.141,0.1463
+Micro Precision,0.4241,0.3943,0.3977,0.3863
+Micro Recall,0.6591,0.6702,0.6708,0.6729
+Micro F1,0.516,0.4963,0.4992,0.4906
+Macro F1,0.5156,0.4899,0.4974,0.4851

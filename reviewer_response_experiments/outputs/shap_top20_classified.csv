@@ -1,0 +1,101 @@
+Feature,Importance,Label,Class
+to,0.0785655842116165,Subjective,Function/Stopword
+be,0.0669082051940653,Subjective,Function/Stopword
+by,0.0551442567703655,Subjective,Function/Stopword
+and,0.0518023868179619,Subjective,Function/Stopword
+for,0.0457215294833194,Subjective,Function/Stopword
+with,0.0438010890124181,Subjective,Function/Stopword
+train,0.0427203384560661,Subjective,Content
+should,0.0423161862112474,Subjective,Function/Stopword
+shall be,0.0397520102372746,Subjective,Mixed (bigram)
+or,0.0386370001632236,Subjective,Function/Stopword
+tcs,0.0376970146080653,Subjective,Content
+the system,0.0346987250085713,Subjective,Function/Stopword
+radio,0.033652151100525,Subjective,Content
+calls,0.0315045928830326,Subjective,Content
+as,0.0292668453660005,Subjective,Function/Stopword
+call,0.0287155658526937,Subjective,Function/Stopword
+of,0.0277779514175401,Subjective,Function/Stopword
+should be,0.0271064110530292,Subjective,Function/Stopword
+be able,0.024328734622642,Subjective,Mixed (bigram)
+driver,0.0242404550119604,Subjective,Content
+of,0.1155910506080353,Ambiguous,Function/Stopword
+to,0.0957494326406043,Ambiguous,Function/Stopword
+and,0.0879602995622005,Ambiguous,Function/Stopword
+is,0.0758245295972251,Ambiguous,Function/Stopword
+the,0.0669960849639056,Ambiguous,Function/Stopword
+in,0.0640750181740241,Ambiguous,Function/Stopword
+as,0.0633709943464449,Ambiguous,Function/Stopword
+number,0.0541093483212901,Ambiguous,Content
+are,0.0510231788396282,Ambiguous,Function/Stopword
+the system,0.0497355766388544,Ambiguous,Function/Stopword
+for,0.0397858503737817,Ambiguous,Function/Stopword
+to the,0.0375496607287052,Ambiguous,Function/Stopword
+train,0.0365495837448496,Ambiguous,Content
+or,0.0351097753000501,Ambiguous,Function/Stopword
+shall,0.0346447495969808,Ambiguous,Content
+of the,0.0310357031057788,Ambiguous,Function/Stopword
+other,0.0304136245577042,Ambiguous,Function/Stopword
+data,0.0297350456206767,Ambiguous,Content
+call,0.0289823655492831,Ambiguous,Function/Stopword
+with,0.0281210105131377,Ambiguous,Function/Stopword
+and,0.1091590443997149,Nonverifiable,Function/Stopword
+as,0.0985242222372524,Nonverifiable,Function/Stopword
+support,0.0802050640894635,Nonverifiable,Content
+to,0.0766380776579771,Nonverifiable,Function/Stopword
+for,0.0607248557406011,Nonverifiable,Function/Stopword
+of,0.05886130688937,Nonverifiable,Function/Stopword
+the,0.0558299058025382,Nonverifiable,Function/Stopword
+this,0.0429944167507419,Nonverifiable,Function/Stopword
+is,0.041273364431673,Nonverifiable,Function/Stopword
+tcs,0.0338190779426152,Nonverifiable,Content
+number,0.0323645908043133,Nonverifiable,Content
+possible,0.0307285319627421,Nonverifiable,Content
+minimum,0.0305828249047638,Nonverifiable,Content
+it,0.030245566972734,Nonverifiable,Function/Stopword
+or,0.0300515871003944,Nonverifiable,Function/Stopword
+time,0.0298328306092926,Nonverifiable,Content
+in,0.0293245093330182,Nonverifiable,Function/Stopword
+tcs shall,0.0283578228919069,Nonverifiable,Content
+required,0.0279762617679696,Nonverifiable,Content
+on,0.0258375959412669,Nonverifiable,Function/Stopword
+not,0.2218836141614298,Negative,Function/Stopword
+is,0.085576929998531,Negative,Function/Stopword
+the,0.0808609032526684,Negative,Function/Stopword
+of,0.0761486506729169,Negative,Function/Stopword
+and,0.0760553549500232,Negative,Function/Stopword
+shall be,0.0682176298681634,Negative,Mixed (bigram)
+as,0.0518090665344596,Negative,Function/Stopword
+with,0.0458840523024592,Negative,Function/Stopword
+without,0.0455859637347188,Negative,Function/Stopword
+system,0.045393000186897,Negative,Function/Stopword
+if,0.0427853468219039,Negative,Function/Stopword
+be,0.0427079555154945,Negative,Function/Stopword
+call,0.0422948032017702,Negative,Function/Stopword
+no,0.0404876767191283,Negative,Function/Stopword
+that,0.039579238299635,Negative,Function/Stopword
+or,0.0338832990852184,Negative,Function/Stopword
+are,0.0304996775520814,Negative,Function/Stopword
+to,0.0302790382923214,Negative,Function/Stopword
+it,0.0283462496248495,Negative,Function/Stopword
+this,0.0226425070115934,Negative,Function/Stopword
+all,0.1395775147454724,Vague,Function/Stopword
+of,0.1012238237796876,Vague,Function/Stopword
+user,0.0663226411444756,Vague,Content
+that,0.0650847506647784,Vague,Function/Stopword
+shall be,0.065035960675092,Vague,Mixed (bigram)
+any,0.0639299670864252,Vague,Function/Stopword
+to,0.0624222164078424,Vague,Function/Stopword
+this,0.0444202192851284,Vague,Function/Stopword
+network,0.0422903504975317,Vague,Content
+each,0.0414976304065427,Vague,Function/Stopword
+data,0.0375430847541018,Vague,Content
+the,0.0372308527335903,Vague,Function/Stopword
+radio,0.0365195500653565,Vague,Content
+for,0.0352762012746151,Vague,Function/Stopword
+of the,0.0344850580785389,Vague,Function/Stopword
+by,0.0325930332276134,Vague,Function/Stopword
+at,0.0323556964791796,Vague,Function/Stopword
+to the,0.029208480718001,Vague,Function/Stopword
+one,0.0290473701286067,Vague,Function/Stopword
+following,0.0278517460863297,Vague,Content

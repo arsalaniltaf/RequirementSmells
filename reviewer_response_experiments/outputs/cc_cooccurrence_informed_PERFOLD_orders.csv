@@ -1,0 +1,6 @@
+Fold,OrderLabels,TotalCooccurrence,TrainFrequency
+1,"['Ambiguous', 'Nonverifiable', 'Negative', 'Vague', 'Subjective']","{'Subjective': 152, 'Ambiguous': 289, 'Nonverifiable': 245, 'Negative': 208, 'Vague': 160}","{'Subjective': 281, 'Ambiguous': 602, 'Nonverifiable': 347, 'Negative': 248, 'Vague': 325}"
+2,"['Ambiguous', 'Nonverifiable', 'Negative', 'Subjective', 'Vague']","{'Subjective': 163, 'Ambiguous': 277, 'Nonverifiable': 266, 'Negative': 221, 'Vague': 155}","{'Subjective': 281, 'Ambiguous': 602, 'Nonverifiable': 348, 'Negative': 247, 'Vague': 326}"
+3,"['Ambiguous', 'Nonverifiable', 'Negative', 'Vague', 'Subjective']","{'Subjective': 154, 'Ambiguous': 275, 'Nonverifiable': 253, 'Negative': 219, 'Vague': 163}","{'Subjective': 281, 'Ambiguous': 601, 'Nonverifiable': 347, 'Negative': 247, 'Vague': 326}"
+4,"['Ambiguous', 'Nonverifiable', 'Negative', 'Vague', 'Subjective']","{'Subjective': 151, 'Ambiguous': 257, 'Nonverifiable': 251, 'Negative': 218, 'Vague': 167}","{'Subjective': 281, 'Ambiguous': 601, 'Nonverifiable': 347, 'Negative': 247, 'Vague': 326}"
+5,"['Ambiguous', 'Nonverifiable', 'Negative', 'Vague', 'Subjective']","{'Subjective': 156, 'Ambiguous': 282, 'Nonverifiable': 253, 'Negative': 206, 'Vague': 171}","{'Subjective': 280, 'Ambiguous': 602, 'Nonverifiable': 347, 'Negative': 247, 'Vague': 325}"

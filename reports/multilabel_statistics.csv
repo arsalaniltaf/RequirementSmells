@@ -1,0 +1,8 @@
+Metric,Value
+Total Requirements,4305.0
+Single Label,1276.0
+Multi Label,435.0
+Maximum Labels,4.0
+Average Labels,0.523
+Label Cardinality,0.523
+Label Density,0.105
